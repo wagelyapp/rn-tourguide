@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/rn-tourguide/static/js/app.2642f883.chunk.js",
-    "app.js.map": "/rn-tourguide/static/js/app.2642f883.chunk.js.map",
+    "app.js": "/rn-tourguide/static/js/app.38c9df3c.chunk.js",
+    "app.js.map": "/rn-tourguide/static/js/app.38c9df3c.chunk.js.map",
     "runtime~app.js": "/rn-tourguide/static/js/runtime~app.ea2dbe6b.js",
     "runtime~app.js.map": "/rn-tourguide/static/js/runtime~app.ea2dbe6b.js.map",
     "static/js/2.465bdeb6.chunk.js": "/rn-tourguide/static/js/2.465bdeb6.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime~app.ea2dbe6b.js",
     "static/js/2.465bdeb6.chunk.js",
-    "static/js/app.2642f883.chunk.js"
+    "static/js/app.38c9df3c.chunk.js"
   ]
 }
